@@ -13,6 +13,10 @@ This tool works only on windows
 
 On Windows you can insert dotnet-cmder also in the address line.
 
+## In action
+
+![dotnet-cmder in address line](https://github.com/EifelMono/dotnet-cmder/blob/master/media/dotnet-cmder.gif)
+
 ## Install
 ```
 dotnet tool install dotnet-cmder -g
