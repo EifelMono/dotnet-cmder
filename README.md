@@ -11,7 +11,7 @@
 [main-nuget-badge]: https://img.shields.io/nuget/v/dotnet-cmder.svg?style=flat-square&label=nuget
 
 
-dotnet-cmder starts cmder in the current folder.
+dotnet-cmder starts Cmder in the current folder.
 
 This tool inculdes Cmder Mini 1.3.5 from http://cmder.net/
 
