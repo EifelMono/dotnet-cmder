@@ -2,10 +2,14 @@
 
 [![AppVeyor build status][appveyor-badge]](https://ci.appveyor.com/project/EifelMono/dotnet-cmder/branch/master)
 
+[appveyor-badge]: https://img.shields.io/appveyor/ci/EifelMono/dotnet-cmder/master.svg?label=appveyor&style=flat-square
+
+
 [![NuGet][main-nuget-badge]][main-nuget]
 
 [main-nuget]: https://www.nuget.org/packages/dotnet-cmder/
 [main-nuget-badge]: https://img.shields.io/nuget/v/dotnet-cmder.svg?style=flat-square&label=nuget
+
 
 dotnet-cmder starts cmder in the current folder.
 
