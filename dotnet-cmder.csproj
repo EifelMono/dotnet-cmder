@@ -9,7 +9,7 @@
   <PropertyGroup>
     <Title>dotnet-cmder</Title>
     <Authors>eifelmono@klapperich.de</Authors>
-    <Product>dotnoet-cmder</Product>
+    <Product>dotnet-cmder</Product>
     <Copyright>Use it or lose it!</Copyright>
     <Owners>eifelmono</Owners>
     <NeutralLanguage>en-US</NeutralLanguage>
